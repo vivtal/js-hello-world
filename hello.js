@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("9 no but for real, let me see if i can print a url");
+console.log ("let's try this: https://www.youtube.com/watch?v=8ybW48rKBME&ab_channel=xyzmusic")
 
 /*  
 Next, PLAY! 
